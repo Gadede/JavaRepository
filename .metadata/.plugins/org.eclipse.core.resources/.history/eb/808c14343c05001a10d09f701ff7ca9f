@@ -1,0 +1,15 @@
+package daysOftheWeek;
+
+
+public class DaysOfTheWeek {
+
+	public static float main (String[] args) {
+		
+		
+		Math.ceil(2.1);
+		return(Math.ceil(2.1));
+		
+		
+	}
+
+}

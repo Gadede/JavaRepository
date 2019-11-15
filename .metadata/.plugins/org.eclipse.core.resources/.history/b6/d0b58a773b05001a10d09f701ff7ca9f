@@ -1,0 +1,16 @@
+package daysOftheWeek;
+
+import java.util.Scanner;
+
+public class DaysOfTheWeek {
+
+	public static Double main (String[] args) {
+		
+		
+		Math.ceil(2.1);
+		return(Math.ceil(2.1));
+		
+		
+	}
+
+}
